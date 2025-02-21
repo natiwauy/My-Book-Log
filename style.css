@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif; /* 전체 페이지의 폰트 스타일 지정 */
     margin: 0;
     padding: 0;
-    background-color: #BEEFFF; /* 배경색 설정 */
+    background-color: #FFFFFF ; /* 배경색 설정 */
     text-align: center; /* 제목을 중앙 정렬 */
 }
 
@@ -22,7 +22,7 @@ h3 {
 
 p {
     font-size: 16px; /* 문단의 폰트 크기 지정 */
-    color: #666; /* 문단의 색상 지정 */
+    color: #BEEFFF; /* 문단의 색상 지정 */
     line-height: 1.2; /* 문단의 줄 간격 지정 */
     margin: 10px; /* 문단 주위 여백 지정 */
     text-align: left; /* 제목을 중앙 정렬 */
