@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif; /* 전체 페이지의 폰트 스타일 지정 */
     margin: 0;
     padding: 0;
-    background-color: #FFFFFF ; /* 배경색 설정 */
+    background-color: #f4f4f4; /* 배경색 설정 */
     text-align: center; /* 제목을 중앙 정렬 */
 }
 
@@ -54,7 +54,7 @@ li {
 img {
   border: 1px solid #ddd;
   border-radius: 4px;
-  padding: 5px;4
+  padding: 5px;
   width: 320px;
 }
 
@@ -80,3 +80,4 @@ div {
 .button:hover {
     background-color: #eeee08;
 }
+
